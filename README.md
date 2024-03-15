@@ -3,7 +3,7 @@
 ### My name is Elias Ortega
 ### Fun fact about me: I love coding
 
-### Fun fact #2: I also enjoy playing sports
+### Fun fact #2: I also enjoy playing sports.
 
 <!--
 **liazortega/liazortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
